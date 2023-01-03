@@ -1,3 +1,7 @@
+A 2D game that can be either playable by the player, or watch the different solution algorithms to solve the game (BFS, A, A* with heuristics)
+
+here is some statistics:
+
 Level 1 :
 
     Algorithme     |   DeadLock   |   Nombre D'itérations   |   Nombre Des Steps
